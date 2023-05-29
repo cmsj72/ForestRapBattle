@@ -44,7 +44,8 @@
 
 >  마이크를 설정하고 소리가 들리는지 확인할 수 있습니다.
 
-![20220520_121114](readme_image/마이크 설정.png)
+![20220520_121114](https://github.com/cmsj72/ForestRapBattle/blob/master/readme_image/%EB%A7%88%EC%9D%B4%ED%81%AC%20%EC%84%A4%EC%A0%95.png)
+
 
 
 #### 채널 로비 화면
